@@ -30,18 +30,7 @@
           "artifact": {
             "size": 1416842,
             "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.16.14/fabric-loader-0.16.14.jar"
-          },
-          "subModules": [
-            {
-              "id": "generated.library:fabric:api-0.116.1+1.12.1@jar",
-              "name": "Fabric api",
-              "type": "Library",
-              "artifact": {
-                "size": 2415045,
-                "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/vtBTVr1F/fabric-api-0.116.1%2B1.21.1.jar"
-              }
-            }
-          ]
+          }
         },
         {
           "id": "generated.library:fabric:api-0.95.4+1.20.4@jar",
